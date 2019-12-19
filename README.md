@@ -13,7 +13,7 @@
   <br/>
 </div>
 
-Automatically run smoke tests for a Go application every time it's
+utomatically run smoke tests for a Go application every time it's
 deployed to Heroku using [Assertible](https://assertible.com).
 
 [**Tutorial: Automated smoke testing a Go API on Heroku**](https://assertible.com/blog/automate-smoke-tests-for-a-go-api-on-heroku) &nbsp; &middot; &nbsp; [**Example PR**](https://github.com/assertible/go-heroku-example/pull/5) &nbsp; &middot; &nbsp; [**Try opening a PR**](https://github.com/assertible/go-heroku-example/compare)
